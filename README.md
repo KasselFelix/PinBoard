@@ -30,7 +30,6 @@ PinBoard/
 ├── .classpath         # Fichier de configuration du projet Java
 ├── .project           # Métadonnées du projet Eclipse
 ├── .gitignore         # Fichiers ignorés par Git
-├── .gitlab-ci.yml     # Pipeline CI (hérité d’un ancien dépôt GitLab)
 └── README.md          # Documentation du projet
 ```
 
