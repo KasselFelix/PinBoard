@@ -97,4 +97,11 @@ PinBoard repose sur une architecture pensée pour être **extensible** :
 - Système d’undo/redo avancé  
 - Gestion des calques  
 - Outils de transformation (rotation, miroir, etc.)
+  
+
+---
+
+## Diagramme UML 
+
+![Diagramme UML - PinBoard](pinboarduml.png)
 
