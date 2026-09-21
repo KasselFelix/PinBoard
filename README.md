@@ -30,6 +30,7 @@ PinBoard/
 ├── .classpath         # Fichier de configuration du projet Java
 ├── .project           # Métadonnées du projet Eclipse
 ├── .gitignore         # Fichiers ignorés par Git
+├── .gitlab-ci.yml     # Pipeline CI
 └── README.md          # Documentation du projet
 ```
 
@@ -43,6 +44,7 @@ PinBoard/
 | Interface graphique | **JavaFX** |
 | IDE recommandé | Eclipse / IntelliJ |
 | Build | JDK standard |
+| CI	| GitLab CI |
 
 ---
 
